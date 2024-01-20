@@ -13,6 +13,6 @@
 -  Вы можете ознакомиться с моими проектами в различных разделах этого репозитория 
  
 - 🏦  <a href="https://github.com/Leila3012/yandex_practicum/blob/2f8030bd8b3aa274fb56a45836e74afbe426ec87/README.md" target="_blank"> Yandex Practicum - Образовательные проекты по анализу данных.</a>
-- 💻 <a href="https://github.com/MalykhinViktor/Date_analytics_real_data/blob/main/README.md">Data Analyticsl projects - Real data .</a>
-- 📃 <a href="https://github.com/MalykhinViktor/MalykhinViktor/tree/certificates_and_commendations" target="_blank">Certificates and commendations.</a>
-- 🧑‍💻 <a href="https://github.com/MalykhinViktor/MalykhinViktor/tree/diplomas" target="_blank"> Diplomas.</a>
+- 💻 <a href="">Проекты по анализу данных - Реальные данные  .</a>
+- 📃 <a href="h" target="_blank">Сертификаты и благодарности.</a>
+- 🧑‍💻 <a href="" target="_blank"> Дипломы.</a>
