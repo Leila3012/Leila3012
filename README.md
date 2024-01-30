@@ -15,4 +15,4 @@
 - 🏦  <a href="https://github.com/Leila3012/yandex_practicum/blob/2f8030bd8b3aa274fb56a45836e74afbe426ec87/README.md" target="_blank"> Yandex Practicum - Образовательные проекты по анализу данных.</a>
 - 💻 <a href="">Freelance проекты.</a>
 - 📃 <a href="https://github.com/Leila3012/cert" target="_blank">Сертификаты и благодарности.</a>
-- 🧑‍💻 <a href="" target="_blank"> Дипломы.</a>
+- 🧑‍💻 <a href="https://github.com/Leila3012/-" target="_blank"> Дипломы.</a>
